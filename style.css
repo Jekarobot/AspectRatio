@@ -34,3 +34,9 @@ body {
     font-size: 18px;
     padding: 10px;
   }
+
+  .equals {
+    font-size: 36px;
+    line-height: 36px;
+    margin: 0 10px;
+}
